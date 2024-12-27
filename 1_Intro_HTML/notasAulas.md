@@ -43,3 +43,15 @@ A tag é \<p>
 Cada parágrafo começa uma nova linha, e este comportamento acontece com todas as tags de bloco;
 
 Temos várias tags de bloco, os títulos fazem parte desse grupo.
+
+## Aula 5 - Tags sem conteúdo
+
+Nós temos em HTML tags sem conteúdo;
+ 
+Elas possuem recursos geralmente, como quebrar linha;
+
+Para este fim podemos utilizar a tag \<br/>
+
+Para uma linha horizontal temos \<hr/>
+
+Elas também introduzem o conceito de "self closing tags", onde a tag não possui uma outra tag de fechamento.
