@@ -57,3 +57,13 @@ Para uma linha horizontal temos \<hr/>
 (essas duas tags são do html anterior ao 5, e caíram em desuso, se utilizando do estilo para realizar essas ações)
 
 Elas também introduzem o conceito de "self closing tags", onde a tag não possui uma outra tag de fechamento.
+
+## Aula 6 - Comentários no HTML
+
+Comentários são utilizados para descrever como algo funciona no nosso código;
+
+Ou explicar a outros programadores o que fizemos;
+
+Os comentários não são exibidos na página;
+
+Mas qualquer inspeção de código terá acesso aos comentários.
