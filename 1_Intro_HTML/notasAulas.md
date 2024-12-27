@@ -54,4 +54,6 @@ Para este fim podemos utilizar a tag \<br/>
 
 Para uma linha horizontal temos \<hr/>
 
+(essas duas tags são do html anterior ao 5, e caíram em desuso, se utilizando do estilo para realizar essas ações)
+
 Elas também introduzem o conceito de "self closing tags", onde a tag não possui uma outra tag de fechamento.
