@@ -91,3 +91,13 @@ Isso é utilizado frequentemente para redirecionar a outro site;
 Por exemplo: temos um link que leva a um e-commerce que não é nosso, não temos aquele domínio (então faz sentido abrir em outro lugar);
 
 Então usamos o atributo 'target' com o valor '_blank'.
+
+## Aula 9 - Imagens
+
+Nós podemos inserir imagens no nosso site, com a tag 'img';
+
+O caminho relativo até a imagem é inserido no atributo 'src';
+
+Normalmente colocamos a imagem numa pasta chamada img ou assets, para fins de organização;
+
+Nota: a imagem é uma self closing tag
