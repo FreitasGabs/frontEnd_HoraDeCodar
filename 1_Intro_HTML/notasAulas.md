@@ -33,3 +33,13 @@ O nome da tag é h*, onde * pode ser um valor de 1 a 6;
 O maior título é o h1, e também é o mais importante, colocamos apenas um por página (questões de otimização de busca e indexação do conteúdo);
 
 A importância deve estar conectada com o propósito da nossa página, esse assunto faz parte do HTML semântico. (ou seja, não se apegar somente ao tamanho do título, pois pode ser alterado com estilo, o foco é a importância semântica)
+
+## Aula 4 - Parágrafos
+
+Utilizamos os parágrafos para inserir textos maiores;
+
+A tag é \<p>
+
+Cada parágrafo começa uma nova linha, e este comportamento acontece com todas as tags de bloco;
+
+Temos várias tags de bloco, os títulos fazem parte desse grupo.
