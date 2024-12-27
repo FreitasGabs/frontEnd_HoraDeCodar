@@ -67,3 +67,17 @@ Ou explicar a outros programadores o que fizemos;
 Os comentários não são exibidos na página;
 
 Mas qualquer inspeção de código terá acesso aos comentários.
+
+## Aula 7 - Atributos
+
+Atributos podem ser utilizados para adicionar funcionalidades às tags;
+
+A tag 'a' é responsável por nos direcionar a uma nova página ou site;
+
+Mas aonde vamos adicionar o endereço/URL?
+
+Colocamos no atributo chamado 'href';
+
+Um exemplo: \<a href="https://google.com">Google\</a>
+
+Neste exemplo, ao clicar no link, o usuário é redirecionado ao Google.
