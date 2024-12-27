@@ -81,3 +81,13 @@ Colocamos no atributo chamado 'href';
 Um exemplo: \<a href="https://google.com">Google\</a>
 
 Neste exemplo, ao clicar no link, o usuário é redirecionado ao Google.
+
+### Aula 8 - Abrir link em nova aba
+
+Com um atributo podemos fazer o link abrir em uma nova aba;
+
+Isso é utilizado frequentemente para redirecionar a outro site;
+
+Por exemplo: temos um link que leva a um e-commerce que não é nosso, não temos aquele domínio (então faz sentido abrir em outro lugar);
+
+Então usamos o atributo 'target' com o valor '_blank'.
