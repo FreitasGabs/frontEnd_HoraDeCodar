@@ -161,3 +161,8 @@ O principal propósito é: encapsular elementos que estão conectados entre si.
 Podemos criar toda a estrutura básica do HTML no VS Code com um simples comando;
 
 Basta digitar '!' e apertar 'tab' (ou 'enter').
+
+
+### Fim das aulas de introdução ao HTML; Hora de partir para o desafio
+
+<a href="/1_Intro_HTML/desafio/">Pasta do desafio</a>
