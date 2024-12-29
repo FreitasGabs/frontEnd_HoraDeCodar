@@ -111,3 +111,13 @@ Nós inserimos nele um texto que descreve a imagem;
 Todas as imagens devem ter esse atributo configurado;
 
 Este recurso é importante para acessibilidade.
+
+## Aula 11 - Listas não ordenadas
+
+Listas são importantes para muitos fins em sites;
+
+Podemos até criar um menu a partir de uma lista;
+
+As não ordenadas são criadas pela tag 'ul';
+
+Cada item na lista é representado pela tag 'li'.
