@@ -155,3 +155,9 @@ Podemos criar elementos menores também, como cards;
 O principal propósito é: encapsular elementos que estão conectados entre si.
 
 (a tag div, apesar de ser considerada semântica no html4, não é mais considerada assim na maioria das vezes, sendo preferida uma tag 'section', mas ainda é utilizada para pequenas separações)
+
+## Aula 15 - Criando a estrutura com VS Code
+
+Podemos criar toda a estrutura básica do HTML no VS Code com um simples comando;
+
+Basta digitar '!' e apertar 'tab' (ou 'enter').
