@@ -121,3 +121,13 @@ Podemos até criar um menu a partir de uma lista;
 As não ordenadas são criadas pela tag 'ul';
 
 Cada item na lista é representado pela tag 'li'.
+
+## Aula 12 - Listas ordenadas
+
+Listas ordenadas são interessantes para quando há um procedimento, ou passos a serem seguidos;
+
+Exemplo: receitas;
+
+Agora utilizamos a tag 'ol';
+
+E os itens continuam sendo a tag 'li'.
