@@ -101,3 +101,13 @@ O caminho relativo até a imagem é inserido no atributo 'src';
 Normalmente colocamos a imagem numa pasta chamada img ou assets, para fins de organização;
 
 Nota: a imagem é uma self closing tag
+
+### Aula 10 - O atributo alt
+
+Nas tags de imagem temos um atributo chamado alt;
+
+Nós inserimos nele um texto que descreve a imagem;
+
+Todas as imagens devem ter esse atributo configurado;
+
+Este recurso é importante para acessibilidade.
