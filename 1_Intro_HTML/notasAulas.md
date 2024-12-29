@@ -145,3 +145,13 @@ E também um cabeçalho e um corpo;
 Cada linha é criada em uma tag 'tr' e os dados ficam em 'td';
 
 No cabeçalho usamos a tag 'th'.
+
+## Aula 14 - A tag div
+
+A tag 'div' é utilizada para criar divisões/seções em nosso site;
+
+Podemos criar elementos menores também, como cards;
+
+O principal propósito é: encapsular elementos que estão conectados entre si.
+
+(a tag div, apesar de ser considerada semântica no html4, não é mais considerada assim na maioria das vezes, sendo preferida uma tag 'section', mas ainda é utilizada para pequenas separações)
