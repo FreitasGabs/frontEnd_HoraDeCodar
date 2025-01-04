@@ -98,3 +98,13 @@ Comentários no CSS são como os de HTML, usamos para descrever algo no código
 Caso o código seja inspecionado, os comentários também serão exibidos
 
 A sintaxe é: /* Algum comentário */
+
+## Aula 10 - Classes e IDs
+
+Classes e ids são atributos de tags do HTML, mas estão altamente relacionados ao CSS
+
+Podemos especificar elementos específicos com eles
+
+Ids são utilizados para elementos únicos
+
+E classes servem para um ou mais elementos, geralmente usadas em conjuntos de elementos
