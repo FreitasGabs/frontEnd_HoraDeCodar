@@ -75,3 +75,14 @@ Todos eles, mas com a seguinte ordem: inline > internal = external > padrão do 
 Esta regra funciona quando temos estilos diferentes em um mesmo elemento
 
 Interno e externo tem a mesma prioridade, a última regra ganha a "corrida"
+
+
+## Aula 8 - Múltiplos arquivos CSS
+
+É possível ter mais de uma folha de estilo no nosso projeto
+
+Precisamos apenas importar todas elas na tag head
+
+Os arquivos importados por último tem maior prioridade
+
+Esta é uma boa prática, pois possibilita a divisão do css por páginas, por exemplo (ou seções diferentes do html, etc)
