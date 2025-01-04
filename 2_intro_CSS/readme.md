@@ -132,3 +132,15 @@ Ids são únicos, ou seja, não repetiremos o mesmo nome na mesma página
 O HTML não nos proíbe disso, mas é uma má prática e deve ser evitada
 
 O seletor fica: #nomeID
+
+## Aula 13 - A ordem dos seletores
+
+Nós aprendemos sobre o seletor de id e de classe
+
+E se a tag estiver com id e uma classe, o que acontece?
+
+Como nas maneiras de adicionar CSS, temos também uma ordem
+
+Então o id vai vencer todos os outros, utilize isso a seu favor
+
+Regras que não entram em conflito serão aplicadas normalmente
