@@ -86,3 +86,8 @@ Precisamos apenas importar todas elas na tag head
 Os arquivos importados por último tem maior prioridade
 
 Esta é uma boa prática, pois possibilita a divisão do css por páginas, por exemplo (ou seções diferentes do html, etc)
+
+## Desafio 1 de CSS
+
+Primeiro desafio de css -> <a href="./desafio1/">Pasta do Desafio</a>
+
