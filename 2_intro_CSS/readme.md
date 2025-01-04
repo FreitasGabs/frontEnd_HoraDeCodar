@@ -91,3 +91,10 @@ Esta é uma boa prática, pois possibilita a divisão do css por páginas, por e
 
 Primeiro desafio de css -> <a href="./desafio1/">Pasta do Desafio</a>
 
+## Aula 9 - Comentários no CSS
+
+Comentários no CSS são como os de HTML, usamos para descrever algo no código
+
+Caso o código seja inspecionado, os comentários também serão exibidos
+
+A sintaxe é: /* Algum comentário */
