@@ -120,3 +120,15 @@ Por exemplo: temos um botão que aparece x vezes no nosso projeto, podemos coloc
 Ou seja, os padrões de estilo desses botões podem ser transmitidos através desta classe para os demais
 
 O seletor fica: .nomeClasse (com um ponto na frente)
+
+## Aula 12 - IDs
+
+Os ids também são atributos do HTML
+
+Podemos escrever qualquer coisa como valor, será o nome do id
+
+Ids são únicos, ou seja, não repetiremos o mesmo nome na mesma página
+
+O HTML não nos proíbe disso, mas é uma má prática e deve ser evitada
+
+O seletor fica: #nomeID
