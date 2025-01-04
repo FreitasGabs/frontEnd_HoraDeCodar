@@ -33,3 +33,12 @@ O elemento já está selecionado!
 O atributo 'style' nos permite escrever regras de css
 
 Exemplo: style="color: red;"
+
+## Aula 4 - Múltiplas regras
+
+Nós podemos adicionar várias regras de css
+
+Elas podem ser separadas por ponto e vírgula
+
+Então é possível fazer uma união de estilos, dar uma aparência melhor ao elemento
+
