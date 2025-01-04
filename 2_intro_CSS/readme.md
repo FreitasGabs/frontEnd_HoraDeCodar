@@ -108,3 +108,15 @@ Podemos especificar elementos específicos com eles
 Ids são utilizados para elementos únicos
 
 E classes servem para um ou mais elementos, geralmente usadas em conjuntos de elementos
+
+## Aula 11 - Classes
+
+As classes são inseridas através de um atributo de HTML
+
+O valor do atributo é o nome da classe, e também uma escolha nossa
+
+Por exemplo: temos um botão que aparece x vezes no nosso projeto, podemos colocar uma classe 'btn' nele
+
+Ou seja, os padrões de estilo desses botões podem ser transmitidos através desta classe para os demais
+
+O seletor fica: .nomeClasse (com um ponto na frente)
