@@ -42,3 +42,14 @@ Elas podem ser separadas por ponto e vírgula
 
 Então é possível fazer uma união de estilos, dar uma aparência melhor ao elemento
 
+## Aula 5 - Internal
+
+O css interno é uma técnica melhor que o inline, vamos colocar todos os estilos na tag head
+
+As regras precisam também estar entre a tag style
+
+E através dessa maneira, é necessário selecionar o elemento alvo. Ex.:
+
+p { <br/>
+    color: red; <br/>
+}
