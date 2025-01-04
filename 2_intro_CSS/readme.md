@@ -23,3 +23,13 @@ Depois precisamos colocar as propriedades e os valores
 Se quisermos mudar a cor de algo, por exemplo, utilizamos: color: red;
 
 Nome da propriedade, dois pontos, valor, ponto e vírgula.
+
+## Aula 3 - Inline CSS
+
+O CSS inline pode ser adicionado sem selecionar o elemento, pois é um atributo diretamente inserido no mesmo
+
+O elemento já está selecionado!
+
+O atributo 'style' nos permite escrever regras de css
+
+Exemplo: style="color: red;"
