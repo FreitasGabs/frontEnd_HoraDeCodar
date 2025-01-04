@@ -35,3 +35,17 @@ p {
     padding: 10px;
     font-size: 40px;
 }
+
+/* 13 - ordem das regras */
+
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo{
+    border-bottom: 3px blue solid;
+}
+
+#outro-titulo {
+    border-bottom: 4px solid green;
+}
