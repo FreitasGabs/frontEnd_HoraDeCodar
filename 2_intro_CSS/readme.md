@@ -53,3 +53,13 @@ E através dessa maneira, é necessário selecionar o elemento alvo. Ex.:
 p { <br/>
     color: red; <br/>
 }
+
+## Aula 6 - External
+
+Para adicionar css com esta técnica, precisamos criar um arquivo .css
+
+Geralmente eles ficam numa pasta chamada css
+
+E nós o importamos através da tag 'link'
+
+As regras que estão no arquivo são aplicadas em todo o html
