@@ -18,3 +18,11 @@ p {
 
 /* 9 - comentário */
 /* Comentário (sim, hilário, já tava comentando há um tempão) */
+
+/* 11 - classes */
+
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
