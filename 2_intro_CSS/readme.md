@@ -63,3 +63,15 @@ Geralmente eles ficam numa pasta chamada css
 E nós o importamos através da tag 'link'
 
 As regras que estão no arquivo são aplicadas em todo o html
+
+## Aula 7 - Ordem do CSS
+
+O CSS é carregado a partir de uma ordem
+
+Se temos estilos misturados (inline, internal e external), qual será aplicado?
+
+Todos eles, mas com a seguinte ordem: inline > internal = external > padrão do navegador
+
+Esta regra funciona quando temos estilos diferentes em um mesmo elemento
+
+Interno e externo tem a mesma prioridade, a última regra ganha a "corrida"
