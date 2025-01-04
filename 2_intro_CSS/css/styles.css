@@ -7,3 +7,11 @@ body {
 h3 {
     color: green;
 }
+
+/* 7 - ordem do css */
+
+/* sobrescreveu o internal já existente */
+
+p {
+    color: brown;
+}
