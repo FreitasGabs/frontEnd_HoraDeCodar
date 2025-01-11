@@ -182,3 +182,11 @@ Os valores vão de 0 a 9 e A a F
 0 é o mais escuro e F o mais claro
 
 O valor de #000 é a cor preta e #FFF é o branco (3 dígitos pq como cada dupla é igual, não precisa digitar tudo e só os três já indicam o RGB em HEX)
+
+### Aula 17 - Aprofundando sobre o HEX
+
+Se um valor for repetido 6 vezes, podemos escrever a cor de uma forma mais simples
+
+No caso de #FFFFFF podemos reescrever com #FFF
+
+A mesma coisa vale para #112233, essa cor pode ser escrita como #123
