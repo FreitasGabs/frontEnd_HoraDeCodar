@@ -158,3 +158,13 @@ Em CSS as cores são divididas em grupos, temos:
 - HSL: hue, saturation e lightness, mudando estes valores temos uma cor
 
 Nas próximas aulas abordaremos todos, detalhadamente
+
+## Aula 15 - Nomes das cores
+
+Nós utilizamos muito essa maneira até agora, mas em projetos reais não é muito empregada
+
+Pois ela nos limita a apenas as cores com nomes existentes (e registrados no editor)
+
+No mundo real precisamos de mais possibilidades, para não limitar os designers
+
+O nome da cor consiste na utilização do nome real da cor como propriedade
