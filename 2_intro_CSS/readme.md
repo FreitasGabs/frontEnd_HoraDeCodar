@@ -204,3 +204,15 @@ Aplicamos RGB com a seguinte sintaxe: rgb(0-255, 0-255, 0-255)
 O primeiro valor representa o vermelho, o segundo o verde e o terceiro azul
 
 Para criar a cor verde, inserimos: rgb(0, 255, 0)
+
+### Aula 19 - RGBa
+
+Podemos criar cores também com o RGBA, o A vem de alpha
+
+A alteração dele muda a opacidade da cor
+
+Os valores possíveis são de 0 a 1 (assumindo os valores reais no meio termo)
+
+Sendo 0 transparente e 1 totalmente visível
+
+A sintaxe e quase a mesma: rgba(0-255, 0-255, 0-255, 0-1)
