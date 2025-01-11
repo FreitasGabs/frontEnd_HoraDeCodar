@@ -216,3 +216,11 @@ Os valores possíveis são de 0 a 1 (assumindo os valores reais no meio termo)
 Sendo 0 transparente e 1 totalmente visível
 
 A sintaxe e quase a mesma: rgba(0-255, 0-255, 0-255, 0-1)
+
+## Aula 20 - HSL
+
+HSL é um acrônimo para hue, saturation e lightness (tonalidade, saturação e luminosidade)
+
+Esta abordagem também não é muito utilizada, o ranking de uso é esse: HEX > RGB > HSL > nomes de cor
+
+Podemos definir uma cor com hsl(0-360, 0-100%, 0-100%) [sim, até 360, hsl é baseado em círculo cromático e muito utilizado por designers para criar as variações de tonalidade a partir de uma cor base, e usar opostos no círculo para criar contraste agradável]
