@@ -168,3 +168,17 @@ Pois ela nos limita a apenas as cores com nomes existentes (e registrados no edi
 No mundo real precisamos de mais possibilidades, para não limitar os designers
 
 O nome da cor consiste na utilização do nome real da cor como propriedade
+
+## Aula 16 - Hexadecimal
+
+HEX ou Hexadecimal é a abordagem mais utilizada
+
+Basicamente temos que inserir 6 dígitos, precedidos de uma #
+
+Os dois primeiros representam o tom de vermelho, depois de verde, e por fim, de azul
+
+Os valores vão de 0 a 9 e A a F
+
+0 é o mais escuro e F o mais claro
+
+O valor de #000 é a cor preta e #FFF é o branco (3 dígitos pq como cada dupla é igual, não precisa digitar tudo e só os três já indicam o RGB em HEX)
