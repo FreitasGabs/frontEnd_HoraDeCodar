@@ -49,3 +49,9 @@ h2 {
 #outro-titulo {
     border-bottom: 4px solid green;
 }
+
+/* 15 - nomes de cores */
+
+.color-name {
+    color: cornflowerblue;
+}
