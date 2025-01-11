@@ -190,3 +190,17 @@ Se um valor for repetido 6 vezes, podemos escrever a cor de uma forma mais simpl
 No caso de #FFFFFF podemos reescrever com #FFF
 
 A mesma coisa vale para #112233, essa cor pode ser escrita como #123
+
+## Aula 18 - RGB
+
+RGB significa Red, Green e Blue (ou seja, vermelho, verde e azul)
+
+Nós precisamos inserir a intensidade de cada um, com valores de 0 a 255 [no fim das contas, com números em hex também é de 0 a 255 (00 a FF)]
+
+0 é o mais escuro e 255 o mais claro
+
+Aplicamos RGB com a seguinte sintaxe: rgb(0-255, 0-255, 0-255)
+
+O primeiro valor representa o vermelho, o segundo o verde e o terceiro azul
+
+Para criar a cor verde, inserimos: rgb(0, 255, 0)
