@@ -144,3 +144,17 @@ Como nas maneiras de adicionar CSS, temos também uma ordem
 Então o id vai vencer todos os outros, utilize isso a seu favor
 
 Regras que não entram em conflito serão aplicadas normalmente
+
+## Aula 14 - As cores no CSS
+
+Em CSS as cores são divididas em grupos, temos:
+
+- Nomes de cor: como red ou blue, não são muito utilizadas
+
+- RGB: configuramos as tonalidades de red, green e blue
+
+- Hexadecimal: uma união de letras e números, que podem criar uma cor, a maneira mais utilizada
+
+- HSL: hue, saturation e lightness, mudando estes valores temos uma cor
+
+Nas próximas aulas abordaremos todos, detalhadamente
