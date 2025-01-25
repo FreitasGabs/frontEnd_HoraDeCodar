@@ -326,3 +326,15 @@ Apenas precisamos utilizar a regra padding e configurar top, right, bottom e lef
 Exemplo: padding: 10px 5px 12px 20px
 
 Esta regra de shorthand pode ser aplicada para outras propriedades, como margin
+
+#### 31- Padding e Width
+
+A padding é adicionada a largura do elemento, e isso pode ser um problema
+
+Por exemplo: se precisamos seguir um layout perfeitamente
+
+Um elemento com 200px de width e 50px de padding tem um tamanho total de 250px na horizontal
+
+Podemos diminuir a largura do elemento, mas isso dificulta o cálculo também
+
+Isso pode ser resolvido com a regra 'box-sizing' com o valor 'border-box', isso faz o elemento respeitar a width
