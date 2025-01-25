@@ -300,3 +300,9 @@ Podemos alterar as duas e mudar o tamanho do elemento na tela
 Alguns dos elementos do HTML, os block elements, já vem com 100% de largura
 
 Preenchendo a tela toda na horizontal
+
+### Aula 28 - Padding
+
+Padding é o espaço entre o conteúdo e a borda do elemento, também conhecido como espaçamento interno
+
+Este recurso é utilizado para criar uma distância entre o conteúdo (texto) e a extremidade do elemento
