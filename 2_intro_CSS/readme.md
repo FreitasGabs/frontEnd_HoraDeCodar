@@ -376,3 +376,17 @@ a propriedade de 'margin' é responsável pelo espaçamento externo do elemento
 Podemos aplicar o recurso como aplicamos padding
 
 Ou seja: lados individuais e também o shorthand
+
+### Aula 36 - Elementos do box-model juntos
+
+Em alguns elementos vamos utilizar todos os recursos do box-model
+
+Ou seja, vamos definir:
+
+- o tamanho (width e height)
+
+- um espaçamento interno (padding)
+
+- decorar o elemento com bordas (border)
+
+- afastar o elemento de outros elementos (margin)
