@@ -254,3 +254,13 @@ Se você não quer aplicar a opacidade para os elementos internos, então deve a
 Alterando o valor de alpha temos a opacidade aplicada apenas na cor de fundo
 
 Então preservamos o conteúdo e alteramos o background
+
+## Aula 24 - Background Image
+
+Podemos inserir imagens no fundo dos elementos
+
+A regra é: background-image: url("caminho/url")
+
+Geralmente a imagem fica em outra pasta, então temos que voltar um diretório
+
+Isso pode ser feito com o símbolo '..' (ex.: url("../pasta_imagens/imagem.png"))
