@@ -236,3 +236,20 @@ h2 {
             padding: 15px;
             border-radius: 25px;
         }
+
+    /* 35 - margem */
+    .margem {
+        margin: 10px;
+        background-color: #ccc;
+    }
+
+    .margem-top {
+        margin-top: 50px;
+        background-color: #555;
+        padding: 10px;
+    }
+
+    .margem-shorthand {
+        background-color: #aaa;
+        margin: 5px 10px 15px 20px;
+    }
