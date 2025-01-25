@@ -368,3 +368,11 @@ Podemos aplicá-la assim: border-radius: 5px
 Isso faz com que os cantos sejam arredondados em 5px (também podemos arredondar cima-baixo/esquerda-direita, ou os quatro cantos individualmente na mesma chamada)
 
 Importante: podemos arredondar elementos que não tem a regra de borda aplicada
+
+### Aula 35 - Margem
+
+a propriedade de 'margin' é responsável pelo espaçamento externo do elemento
+
+Podemos aplicar o recurso como aplicamos padding
+
+Ou seja: lados individuais e também o shorthand
