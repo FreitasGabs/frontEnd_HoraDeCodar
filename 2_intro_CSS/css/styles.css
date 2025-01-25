@@ -209,3 +209,14 @@ h2 {
         border: 2px dotted #931;
         padding: 25px;
     }
+
+        /* 33 - bordas individuais */
+        .border-left {
+            border-left: 3px solid red;
+            padding: 25px;
+        }
+
+        .border-bottom {
+            border-bottom: 5px double #399;
+            padding: 20px;
+        }
