@@ -316,3 +316,13 @@ A regra é: padding-*
 Onde * pode ser: top, left, right ou bottom
 
 Assim teremos valores customizados em cada um dos lados do elemento
+
+#### Aula 30 - Shorthand Padding
+
+As propriedades de shorthand nos permitem adicionar padding a todas as direções com apenas uma regra
+
+Apenas precisamos utilizar a regra padding e configurar top, right, bottom e left, nessa ordem
+
+Exemplo: padding: 10px 5px 12px 20px
+
+Esta regra de shorthand pode ser aplicada para outras propriedades, como margin
