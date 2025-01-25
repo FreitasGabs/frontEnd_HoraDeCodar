@@ -224,3 +224,13 @@ HSL é um acrônimo para hue, saturation e lightness (tonalidade, saturação e 
 Esta abordagem também não é muito utilizada, o ranking de uso é esse: HEX > RGB > HSL > nomes de cor
 
 Podemos definir uma cor com hsl(0-360, 0-100%, 0-100%) [sim, até 360, hsl é baseado em círculo cromático e muito utilizado por designers para criar as variações de tonalidade a partir de uma cor base, e usar opostos no círculo para criar contraste agradável]
+
+## Aula 21 - Background Color
+
+Quase todo elemento tem um background, e podemos mudar a cor dele
+
+Todas as regras que vimos sobre cores podem ser aplicadas em cores de background
+
+A regra é: background-color: "cor"
+
+As regras de cor de fundo e cor de fonte podem ser utilizadas juntas
