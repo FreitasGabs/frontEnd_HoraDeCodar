@@ -288,3 +288,15 @@ Todas elas podem ser alteradas por CSS
 Alguns elementos do HTML já vem com valor padrão nestas regras
 
 Este conceito é muito importante, veremos em detalhes nas próximas aulas
+
+### Aula 27 - Altura e Largura
+
+A altura e a largura são o núcleo do box-model
+
+Estas propriedades consistem no conteúdo do elemento
+
+Podemos alterar as duas e mudar o tamanho do elemento na tela
+
+Alguns dos elementos do HTML, os block elements, já vem com 100% de largura
+
+Preenchendo a tela toda na horizontal
