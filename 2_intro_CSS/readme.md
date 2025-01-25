@@ -246,3 +246,11 @@ Os valores vão de 0 a 1
 Sendo 1 totalmente visível e 0 remove a cor
 
 Com esta regra mudamos também a opacidade do conteúdo dentro do elemento, veremos uma solução depois
+
+## Aula 23 - RGBa para Background
+
+Se você não quer aplicar a opacidade para os elementos internos, então deve aplicar RGBa em vez de opacity
+
+Alterando o valor de alpha temos a opacidade aplicada apenas na cor de fundo
+
+Então preservamos o conteúdo e alteramos o background
