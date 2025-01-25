@@ -390,3 +390,13 @@ Ou seja, vamos definir:
 - decorar o elemento com bordas (border)
 
 - afastar o elemento de outros elementos (margin)
+
+## Aula 37 - Alinhamento de texto
+
+Nossos textos podem ser alinhados em várias direções
+
+Por padrão ele é alinhado a esquerda
+
+Porém com a regra 'text-align' configuramos center (centro) ou right (direita), para alterar o valor default
+
+Usamos muito o valor de center
