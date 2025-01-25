@@ -348,3 +348,13 @@ Padding é o espaçamento interno, e margin externo
 Geralmente esta regra é utilizada com propósito decorativo
 
 A regra de border é definida em algumas partes: tamanho, aspecto e cor da borda
+
+#### Aula 33 - Lados individuais da borda
+
+Podemos adicionar borda aos lados específicos de um elemento também
+
+Podemos utilizar: border-*
+
+Onde * pode ser top, right, bottom e left
+
+Isso é utilizado frequentemente, especialmente com a border-bottom e left
