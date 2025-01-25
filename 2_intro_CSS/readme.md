@@ -306,3 +306,13 @@ Preenchendo a tela toda na horizontal
 Padding é o espaço entre o conteúdo e a borda do elemento, também conhecido como espaçamento interno
 
 Este recurso é utilizado para criar uma distância entre o conteúdo (texto) e a extremidade do elemento
+
+#### Aula 29 - Padding Individual
+
+Podemos adicionar o padding aos lados individuais de um elemento
+
+A regra é: padding-*
+
+Onde * pode ser: top, left, right ou bottom
+
+Assim teremos valores customizados em cada um dos lados do elemento
