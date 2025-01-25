@@ -110,3 +110,8 @@ h2 {
     background-color: green;
     opacity: 0.2;
 }
+
+/* 23 - rgba com opacidade */
+.rgba-opacidade {
+    background-color: rgba(90, 120, 20, 0.2);
+}
