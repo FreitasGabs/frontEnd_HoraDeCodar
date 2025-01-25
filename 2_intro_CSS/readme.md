@@ -234,3 +234,15 @@ Todas as regras que vimos sobre cores podem ser aplicadas em cores de background
 A regra é: background-color: "cor"
 
 As regras de cor de fundo e cor de fonte podem ser utilizadas juntas
+
+## Aula 22 - Background Opacity
+
+Podemos alterar a opacidade de uma cor de fundo com CSS
+
+A regra é a 'opacity'
+
+Os valores vão de 0 a 1
+
+Sendo 1 totalmente visível e 0 remove a cor
+
+Com esta regra mudamos também a opacidade do conteúdo dentro do elemento, veremos uma solução depois
