@@ -182,3 +182,19 @@ h2 {
 
             /* cima-baixo e direita-esquerda, também poderia ter apenas um valor para os quatro lados */
         }
+
+        /* 31 - padding com width */
+        .without-border-box {
+            background-color: #444;
+            color: #fff;
+            width: 400px;
+            padding: 50px;
+        }
+
+        .border-box {
+            background-color: #444;
+            color: #fff;
+            width: 400px;
+            padding: 50px;
+            box-sizing: border-box;
+        }
