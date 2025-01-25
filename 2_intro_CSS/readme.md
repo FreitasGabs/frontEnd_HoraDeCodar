@@ -264,3 +264,15 @@ A regra é: background-image: url("caminho/url")
 Geralmente a imagem fica em outra pasta, então temos que voltar um diretório
 
 Isso pode ser feito com o símbolo '..' (ex.: url("../pasta_imagens/imagem.png"))
+
+## Aula 25 - Centralizando a imagem de bg
+
+Às vezes a imagem é muito maior que o elemento que estamos inserindo
+
+Então precisamos melhorar a visualização, centralizando a imagem
+
+Isso pode ser feito com duas regras:
+
+- background-position: center; e
+
+- background-size: cover;
