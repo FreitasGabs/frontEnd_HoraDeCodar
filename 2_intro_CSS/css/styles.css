@@ -122,3 +122,15 @@ h2 {
     padding: 10px;
     color: purple;
 }
+
+/* 25 - centralizando imagem no background */
+.not-centered-bg, .centerd-bg {
+    height: 400px;
+    width: 400px;
+    background-image: url("../assets/glaedr_oromis.jpg");
+}
+
+.centerd-bg {
+    background-position: center;
+    background-size: cover;
+}
