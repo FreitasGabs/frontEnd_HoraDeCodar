@@ -333,7 +333,7 @@ A padding é adicionada a largura do elemento, e isso pode ser um problema
 
 Por exemplo: se precisamos seguir um layout perfeitamente
 
-Um elemento com 200px de width e 50px de padding tem um tamanho total de 250px na horizontal
+Um elemento com 200px de width e 25px de padding tem um tamanho total de 250px na horizontal (25 de um lado + 25 de outro)
 
 Podemos diminuir a largura do elemento, mas isso dificulta o cálculo também
 
