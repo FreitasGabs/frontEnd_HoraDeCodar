@@ -327,7 +327,7 @@ Exemplo: padding: 10px 5px 12px 20px
 
 Esta regra de shorthand pode ser aplicada para outras propriedades, como margin
 
-#### 31- Padding e Width
+#### Aula 31- Padding e Width
 
 A padding é adicionada a largura do elemento, e isso pode ser um problema
 
@@ -338,3 +338,13 @@ Um elemento com 200px de width e 25px de padding tem um tamanho total de 250px n
 Podemos diminuir a largura do elemento, mas isso dificulta o cálculo também
 
 Isso pode ser resolvido com a regra 'box-sizing' com o valor 'border-box', isso faz o elemento respeitar a width
+
+### Aula 32 - Borda
+
+A borda é o elemento central, fica entre padding e margin
+
+Padding é o espaçamento interno, e margin externo
+
+Geralmente esta regra é utilizada com propósito decorativo
+
+A regra de border é definida em algumas partes: tamanho, aspecto e cor da borda
