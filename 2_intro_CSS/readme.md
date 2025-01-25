@@ -276,3 +276,15 @@ Isso pode ser feito com duas regras:
 - background-position: center; e
 
 - background-size: cover;
+
+## Aula 26 - Box-Model
+
+Box model é uma entidade que é criada em todo elemento do HTML
+
+Ela consiste em quatro partes: altura e largura, padding, border e margin
+
+Todas elas podem ser alteradas por CSS
+
+Alguns elementos do HTML já vem com valor padrão nestas regras
+
+Este conceito é muito importante, veremos em detalhes nas próximas aulas
