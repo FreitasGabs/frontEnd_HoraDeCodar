@@ -115,3 +115,10 @@ h2 {
 .rgba-opacidade {
     background-color: rgba(90, 120, 20, 0.2);
 }
+
+/* 24 - background image */
+.bg-image {
+    background-image: url("../assets/glaedr_oromis.jpg");
+    padding: 10px;
+    color: purple;
+}
