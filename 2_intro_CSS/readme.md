@@ -516,3 +516,13 @@ Agora as regras 'top', 'left', 'bottom' e 'right' movem o elemento pela tela
 O elemento ainda segue o fluxo do HTML
 
 Atenção: normalmente não utilizamos estas regras de posição com o 'relative'
+
+### Aula 50 - Absolute
+
+Com o valor de 'absolute', o elemento pode ser movido pela tela toda
+
+Ou seja, quebramos o fluxo do HTML
+
+Esta regra também é afetada por 'top', 'right', 'bottom' e 'left'
+
+Posicionar com 'absolute' pode ser uma solução ou um problema, dependendo do ponto de vista (e objetivos do projeto)
