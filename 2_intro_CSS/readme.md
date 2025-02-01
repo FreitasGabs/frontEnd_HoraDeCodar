@@ -400,3 +400,13 @@ Por padrão ele é alinhado a esquerda
 Porém com a regra 'text-align' configuramos center (centro) ou right (direita), para alterar o valor default
 
 Usamos muito o valor de center
+
+## Aula 38 - Text Decoration
+
+Com a decoration podemos adicionar efeitos ao texto
+
+É possível colocar um underline ou até mesmo uma linha que corta o texto
+
+Esta regra é utilizada em casos específicos
+
+A tag 'a' tem um underline por padrão, podemos remover isso com a regra de 'text-decoration' e o valor de 'none'
