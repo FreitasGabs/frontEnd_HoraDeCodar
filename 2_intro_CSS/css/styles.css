@@ -400,3 +400,15 @@ h2 {
     top: 100px;
     left: 40px;
 }
+
+/* 50 - position absolute */
+.absolute {
+    position: absolute;
+    background-color: #964;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+
+    top: 2px;
+    right: 2px;
+}
