@@ -350,3 +350,12 @@ h2 {
 .bolder {
     font-weight: 900;
 }
+
+/* 44 - font size */
+.small {
+    font-size: 6px;
+}
+
+.big {
+    font-size: 50px;
+}
