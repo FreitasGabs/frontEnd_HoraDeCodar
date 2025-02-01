@@ -420,3 +420,11 @@ Com a regra 'text-transform' podemos alterar como o texto é exibido
 Não há muitos valores para esta regra
 
 Cuidado: O CSS deve ser aplicado quando queremos o texto em uppercase, NUNCA escreva o texto em caps lock no HTML
+
+## Aula 40 - Espaçamento entre letras
+
+Com a regra 'letter-spacing' podemos alterar o espaçamento entre letras de um texto
+
+Isso é interessante em situações que o layout pede essa mudança
+
+A regra é aplicada da seguinte forma: 'letter-spacing: 5px;'
