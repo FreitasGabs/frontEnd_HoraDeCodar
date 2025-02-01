@@ -438,3 +438,13 @@ As regras disponíveis são: 'Serif', 'Sans-serif', 'Monospace', 'Cursive' e 'Fa
 Todos os navegadores tem várias fontes que podemos utilizar
 
 E ainda podemos adicionar fontes externas, como por exemplo do Google Fonts
+
+## Aula 42 - Estilos de fontes
+
+Nós podemos utilizar a propriedade font-style para mudar o aspecto das letras
+
+Os valores são: 'normal', 'italic' e 'oblique'
+
+Normal é o valor padrão, e os outros são as variantes
+
+Oblique é como o tipo itálico, com pequenas diferenças
