@@ -526,3 +526,13 @@ Ou seja, quebramos o fluxo do HTML
 Esta regra também é afetada por 'top', 'right', 'bottom' e 'left'
 
 Posicionar com 'absolute' pode ser uma solução ou um problema, dependendo do ponto de vista (e objetivos do projeto)
+
+### Aula 51 - Relative com Absolute
+
+Podemos resolver o problema de absolute, com 'relative'
+
+Um elemento com 'position' 'absolute' é ligado ao 'relative' mais próximo, se não, é ligado ao 'body'
+
+Isso foi o que aconteceu na aula passada
+
+Então com um container com posição 'relative' podemos controlar melhor a área de ação dos elementos com 'absolute'
