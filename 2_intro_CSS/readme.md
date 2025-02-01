@@ -496,3 +496,13 @@ O valor padrão é 'static', todo elemento começa nessa posição
 Esta regra é essencial quando precisamos mudar onde o elemento deve ficar no projeto
 
 Vamos ver em detalhes nas próximas aulas
+
+### Aula 48 - Static
+
+O valor de 'static' na 'position' não faz nada com o elemento
+
+Porque este é o valor padrão, ou seja, todo elemento já tem esse tipo de position
+
+Outros valores são afetados pelas regras 'top', 'left', 'right' e 'bottom', mas static não
+
+Static apenas segue o fluxo do HTML
