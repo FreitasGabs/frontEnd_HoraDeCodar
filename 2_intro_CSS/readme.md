@@ -476,3 +476,11 @@ Em HTML e CSS temos elementos que alguns são considerados de bloco e outros inl
 A tag div é um exemplo de block, e span um exemplo de inline
 
 Com a regra 'display' podemos mudar esse comportamento, ou seja, deixar uma div como inline
+
+## Aula 46 - Escondendo elementos
+
+Existem situações que precisamos ocultar elementos
+
+Basta adicionar a regra 'display' com o valor de 'none'
+
+Então o elemento não é mais exibido, mas ainda consta no HTML
