@@ -428,3 +428,13 @@ Com a regra 'letter-spacing' podemos alterar o espaçamento entre letras de um t
 Isso é interessante em situações que o layout pede essa mudança
 
 A regra é aplicada da seguinte forma: 'letter-spacing: 5px;'
+
+## Aula 41 - Fontes
+
+Com CSS podemos alterar o tipo da fonte, com 'font-family'
+
+As regras disponíveis são: 'Serif', 'Sans-serif', 'Monospace', 'Cursive' e 'Fantasy'
+
+Todos os navegadores tem várias fontes que podemos utilizar
+
+E ainda podemos adicionar fontes externas, como por exemplo do Google Fonts
