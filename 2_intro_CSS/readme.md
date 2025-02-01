@@ -484,3 +484,15 @@ Existem situações que precisamos ocultar elementos
 Basta adicionar a regra 'display' com o valor de 'none'
 
 Então o elemento não é mais exibido, mas ainda consta no HTML
+
+## Aula 47 - Sobre as posições dos elementos
+
+A regra 'position' e seus valores são responsáveis por posicionar os elementos na tela
+
+Temos algumas possibilidades: 'relative', 'fixed', 'absolute', 'sticky' e mais...
+
+O valor padrão é 'static', todo elemento começa nessa posição
+
+Esta regra é essencial quando precisamos mudar onde o elemento deve ficar no projeto
+
+Vamos ver em detalhes nas próximas aulas
