@@ -301,3 +301,26 @@ h2 {
 .spacing {
     letter-spacing: 5px;
 }
+
+/* 41 - fontes */
+
+/* também se poderia escolher diretamente uma fonte específica que tenha essas características */
+.serif {
+    font-family: serif;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+.fantasy {
+    font-family: fantasy;
+}
