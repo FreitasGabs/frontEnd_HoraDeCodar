@@ -458,3 +458,13 @@ Os valores vão de 100 a 900, sendo 100 o mais fino
 Algumas palavras também funcionam como valores, exemplo: 'bold(600)'
 
 Existem fontes que não tem todas as variações, devemos ter cuidado com isso (e no caso do Google Fonts, já avisa qual o range de cada fonte)
+
+## Aula 44 - Font size
+
+A regra de 'font-size' é responsável por deixar nossa fonte grande ou pequena
+
+Quanto menor o valor, menor a fonte, e vice-versa
+
+Esta regra é configurada com unidades de medida, como o px
+
+Em CSS temos diversas unidades, veremos ao longo do curso
