@@ -448,3 +448,13 @@ Os valores são: 'normal', 'italic' e 'oblique'
 Normal é o valor padrão, e os outros são as variantes
 
 Oblique é como o tipo itálico, com pequenas diferenças
+
+## Aula 43 - Font weight
+
+A propriedade 'font-weight' pode deixar nossa fonte de texto mais fina ou mais grossa
+
+Os valores vão de 100 a 900, sendo 100 o mais fino
+
+Algumas palavras também funcionam como valores, exemplo: 'bold(600)'
+
+Existem fontes que não tem todas as variações, devemos ter cuidado com isso (e no caso do Google Fonts, já avisa qual o range de cada fonte)
