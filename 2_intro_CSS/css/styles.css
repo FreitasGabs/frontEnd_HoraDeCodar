@@ -274,3 +274,16 @@ h2 {
     width: 300px;
     border: 1px solid red;
 }
+
+/* 38 - text decoration */
+.underline {
+    text-decoration: underline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.remove-underline {
+    text-decoration: none;
+}
