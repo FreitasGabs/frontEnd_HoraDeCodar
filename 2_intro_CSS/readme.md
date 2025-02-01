@@ -506,3 +506,13 @@ Porque este é o valor padrão, ou seja, todo elemento já tem esse tipo de posi
 Outros valores são afetados pelas regras 'top', 'left', 'right' e 'bottom', mas static não
 
 Static apenas segue o fluxo do HTML
+
+### Aula 49 - Relative
+
+Com a 'position' configurada como 'relative' temos mais opções do que com 'static'
+
+Agora as regras 'top', 'left', 'bottom' e 'right' movem o elemento pela tela
+
+O elemento ainda segue o fluxo do HTML
+
+Atenção: normalmente não utilizamos estas regras de posição com o 'relative'
