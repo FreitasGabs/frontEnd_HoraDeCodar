@@ -287,3 +287,12 @@ h2 {
 .remove-underline {
     text-decoration: none;
 }
+
+/* 39 - text transform */
+.upper {
+    text-transform: uppercase;
+}
+
+.lower {
+    text-transform: lowercase;
+}
