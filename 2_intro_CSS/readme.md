@@ -410,3 +410,13 @@ Com a decoration podemos adicionar efeitos ao texto
 Esta regra é utilizada em casos específicos
 
 A tag 'a' tem um underline por padrão, podemos remover isso com a regra de 'text-decoration' e o valor de 'none'
+
+## Aula 39 - Transformação de Texto
+
+Com a regra 'text-transform' podemos alterar como o texto é exibido
+
+É possível alterar para 'uppercase' ou 'lowercase' (maiúsculas ou minúsculas)
+
+Não há muitos valores para esta regra
+
+Cuidado: O CSS deve ser aplicado quando queremos o texto em uppercase, NUNCA escreva o texto em caps lock no HTML
