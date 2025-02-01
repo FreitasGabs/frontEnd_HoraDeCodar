@@ -468,3 +468,11 @@ Quanto menor o valor, menor a fonte, e vice-versa
 Esta regra é configurada com unidades de medida, como o px
 
 Em CSS temos diversas unidades, veremos ao longo do curso
+
+## Aula 45 - Display
+
+Em HTML e CSS temos elementos que alguns são considerados de bloco e outros inline
+
+A tag div é um exemplo de block, e span um exemplo de inline
+
+Com a regra 'display' podemos mudar esse comportamento, ou seja, deixar uma div como inline
