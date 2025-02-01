@@ -388,3 +388,15 @@ h2 {
     width: 100px;
     height: 100px;
 }
+
+/* 49 - position relative */
+.relative {
+    position: relative;
+    background-color: #224;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+
+    top: 100px;
+    left: 40px;
+}
