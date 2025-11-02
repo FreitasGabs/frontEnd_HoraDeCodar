@@ -546,3 +546,13 @@ Mesmo após o scroll na página, o elemento permanece na mesma posição, estand
 O recurso é frequentemente utilizado para criar barra de navegação fixa
 
 *Lembrar de terminar as configs de fixo, passando o posicionamento (top, right, ...)
+
+### Aula 53 - Sticky
+
+Também faz o elemento ficar fixo na tela
+
+Mas tem um outro comportamento também, quando o elemento volta para sua posição original, se comporta como relative
+
+A posição do elemento é onde ele foi inserido no html
+
+Obs.: Adicionado após a aula 44 para melhor visualização
