@@ -556,3 +556,11 @@ Mas tem um outro comportamento também, quando o elemento volta para sua posiç�
 A posição do elemento é onde ele foi inserido no html
 
 Obs.: Adicionado após a aula 44 para melhor visualização
+
+### Aula 54 - z-index
+
+Se temos dois elementos nas mesmas posições, ou se eles colidem na página, podemos escolher qual será exibido
+
+Utilizamos o z-index para isso
+
+O elemento com maior valor prevalece
