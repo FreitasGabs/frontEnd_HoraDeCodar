@@ -536,3 +536,13 @@ Um elemento com 'position' 'absolute' é ligado ao 'relative' mais próximo, se 
 Isso foi o que aconteceu na aula passada
 
 Então com um container com posição 'relative' podemos controlar melhor a área de ação dos elementos com 'absolute'
+
+### Aula 52 - Fixed
+
+Com o fixed, o elemento pode ser fixado na tela
+
+Mesmo após o scroll na página, o elemento permanece na mesma posição, estando sempre presente
+
+O recurso é frequentemente utilizado para criar barra de navegação fixa
+
+*Lembrar de terminar as configs de fixo, passando o posicionamento (top, right, ...)
