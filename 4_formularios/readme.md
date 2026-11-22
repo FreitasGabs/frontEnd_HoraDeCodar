@@ -22,7 +22,7 @@
 
 - Um input do tipo `text` recebe dados de texto, por exemplo.
 
-## Aula 3 - Atributos da tag form
+## Aula 2 - Atributos da tag form
 
 - A tag `<form>` tem alguns atributos geralmente, que são:
 
