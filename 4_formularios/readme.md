@@ -41,3 +41,13 @@
   - Exemplo: Um input que recebe a idade de um usuário, pode ter o name `idade`, ou `age`, ou algo relacionado a isso;
 
 - O name é importante para a identificação dos dados enviados, e para a manipulação desses dados, seja no frontend ou no backend;
+
+## Aula 4 - Atibuto da label
+
+- A tag `<label>` tem o atributo `for`, que é utilizado para associar a label a um input específico;
+
+- O valor deve ser o mesmo do `name` do atributo correspondente;
+
+- A label é importante para a acessibilidade, pois permite que o usuário clique na label para focar no input correspondente, além de melhorar a experiência do usuário;
+
+- É normalmente utilizada para propósitos semânticos e melhorar o ranking no Google.
