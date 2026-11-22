@@ -51,3 +51,16 @@
 - A label é importante para a acessibilidade, pois permite que o usuário clique na label para focar no input correspondente, além de melhorar a experiência do usuário;
 
 - É normalmente utilizada para propósitos semânticos e melhorar o ranking no Google.
+
+## Aula 5 - Enviando os dados de formulário
+
+- Podemos enviar os dados do form para um servidor através de um botão de submit, que é um input do tipo `submit`;
+
+- Quando o usuário clica nesse botão, os dados do formulário são enviados para o servidor, e podemos manipular esses dados no backend;
+
+- Os dados são enviados de acordo com o método definido no atributo `method` da tag `<form>`, que pode ser GET ou POST;
+
+- Os dados serão enviados via requesição HTTP;
+
+- Aqui é onde precisamos de um backend (não será visto nesse curso que é somente front) para receber esses dados, e processá-los, seja salvando em um banco de dados, ou realizando alguma ação com eles.
+
