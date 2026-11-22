@@ -64,3 +64,10 @@
 
 - Aqui é onde precisamos de um backend (não será visto nesse curso que é somente front) para receber esses dados, e processá-los, seja salvando em um banco de dados, ou realizando alguma ação com eles.
 
+## Aula 6 - Elemento Select
+
+- A tag `select` tem as opções representadas por tags `option`, e é utilizada para criar uma lista de opções para o usuário escolher;
+
+- Select também tem um atributo `name`;
+
+- O value estará em cada uma das tags `option`, e é o valor que será enviado para o backend quando o usuário selecionar uma opção.
